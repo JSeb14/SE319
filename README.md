@@ -1,4 +1,4 @@
 # SE319
-Scooter's Pet Shop
-Justin Sebahar
-Carter Peterson
+Scooter's Pet Shop 
+by Justin Sebahar 
+and Carter Peterson
