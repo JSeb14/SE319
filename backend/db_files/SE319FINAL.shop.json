@@ -1,0 +1,176 @@
+[{
+  "_id": {
+    "$oid": "6619a187cb2997fda41deef7"
+  },
+  "id": "1",
+  "type": "food",
+  "animal": "dog",
+  "title": "Biscuit Treats",
+  "price": "$9.99",
+  "image": "https://cdn.pixabay.com/photo/2021/12/14/17/00/dog-treats-6870910_1280.jpg",
+  "stock": "155",
+  "rate": {
+    "rating": "3.99",
+    "count": "88"
+  }
+},
+{
+  "_id": {
+    "$oid": "6619a187cb2997fda41deef8"
+  },
+  "id": "2",
+  "type": "toy",
+  "animal": "cat",
+  "title": "Blue Snake Toy",
+  "price": "$2.99",
+  "image": "https://cdn.pixabay.com/photo/2020/01/27/12/24/cat-4797096_1280.jpg",
+  "stock": "0",
+  "rate": {
+    "rating": "4",
+    "count": "102"
+  }
+},
+{
+  "_id": {
+    "$oid": "6619a187cb2997fda41deef9"
+  },
+  "id": "3",
+  "type": "food",
+  "animal": "cat",
+  "title": "Cat Treats",
+  "price": "$6.99",
+  "image": "https://images.unsplash.com/photo-1610080556749-7c63c435a8cf?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhdCUyMGZvb2R8ZW58MHx8MHx8fDA%3D",
+  "stock": "46",
+  "rate": {
+    "rating": "4.03",
+    "count": "59"
+  }
+},
+{
+  "_id": {
+    "$oid": "6619a187cb2997fda41deefa"
+  },
+  "id": "4",
+  "type": "food",
+  "animal": "dog",
+  "title": "Chicken Flavor Kibble",
+  "price": "$14.99",
+  "image": "https://images.unsplash.com/photo-1589924691995-400dc9ecc119?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZG9nJTIwZm9vZHxlbnwwfHwwfHx8MA%3D%3D",
+  "stock": "145",
+  "rate": {
+    "rating": "5.00",
+    "count": "250"
+  }
+},
+{
+  "_id": {
+    "$oid": "6619a187cb2997fda41deefb"
+  },
+  "id": "5",
+  "type": "food",
+  "animal": "dog",
+  "title": "Dog Bone",
+  "price": "$4.99",
+  "image": "https://images.unsplash.com/photo-1575296176992-374aeda86130?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGRvZyUyMGJvbmV8ZW58MHx8MHx8fDA%3D",
+  "stock": "131",
+  "rate": {
+    "rating": "3.10",
+    "count": "50"
+  }
+},
+{
+  "_id": {
+    "$oid": "6619a187cb2997fda41deefc"
+  },
+  "id": "6",
+  "type": "food",
+  "animal": "cat",
+  "title": "Tuna Flavor Kibble",
+  "price": "$13.99",
+  "image": "https://cdn.pixabay.com/photo/2022/07/11/18/31/cat-7315741_1280.jpg",
+  "stock": "89",
+  "rate": {
+    "rating": "3.05",
+    "count": "113"
+  }
+},
+{
+  "_id": {
+    "$oid": "6619a187cb2997fda41deefd"
+  },
+  "id": "7",
+  "type": "toy",
+  "animal": "dog",
+  "title": "Purple Ball",
+  "price": "$5.89",
+  "image": "https://images.pexels.com/photos/130764/pexels-photo-130764.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  "stock": "82",
+  "rate": {
+    "rating": "2.94",
+    "count": "14"
+  }
+},
+{
+  "_id": {
+    "$oid": "6619a187cb2997fda41deefe"
+  },
+  "id": "8",
+  "type": "toy",
+  "animal": "dog",
+  "title": "Red Squeaker",
+  "price": "$3.49",
+  "image": "https://images.unsplash.com/photo-1535294435445-d7249524ef2e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZG9nJTIwdG95fGVufDB8fDB8fHww",
+  "stock": "30",
+  "rate": {
+    "rating": "5.00",
+    "count": "4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6619a187cb2997fda41deeff"
+  },
+  "id": "9",
+  "type": "toy",
+  "animal": "cat",
+  "title": "Stuffed Animal",
+  "price": "$8.99",
+  "image": "https://cdn.pixabay.com/photo/2022/01/09/15/58/cat-6926318_1280.jpg",
+  "stock": "53",
+  "rate": {
+    "rating": "2.83",
+    "count": "6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6619a187cb2997fda41def00"
+  },
+  "id": "10",
+  "type": "toy",
+  "animal": "dog",
+  "title": "White Rope",
+  "price": "$6.99",
+  "image": "https://cdn.pixabay.com/photo/2017/03/08/01/19/chihuahua-2125691_1280.jpg",
+  "stock": "0",
+  "rate": {
+    "rating": "2",
+    "count": "1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6619a187cb2997fda41def01"
+  },
+  "id": "11",
+  "type": "toy",
+  "animal": "cat",
+  "title": "Yarn Ball",
+  "price": "$3.99",
+  "image": "https://images.unsplash.com/photo-1611882565804-465477102f3d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHlhcm4lMjBiYWxsfGVufDB8fDB8fHww",
+  "stock": "73",
+  "rate": {
+    "rating": "4.85",
+    "count": "14"
+  }
+}]

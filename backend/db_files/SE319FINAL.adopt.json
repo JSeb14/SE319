@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "6636dbf384f008e9fcc31826"
+  },
+  "id": "A",
+  "animal": "cat",
+  "name": "Garfield",
+  "age": "5 years",
+  "description": "Garfield is a bit of a shy cat, but he still enjoys attention. He loves to explore outside and search for food.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYasbV80m5syPsUWOnWpxEHKWqGiEEgHgBE4Yw1Q_TuqqOLtjG",
+  "isReserved": false
+},
+{
+  "_id": {
+    "$oid": "6636dbf384f008e9fcc31827"
+  },
+  "id": "B",
+  "animal": "dog",
+  "name": "Gus",
+  "age": "7 years",
+  "description": "Gus may be older, but he still loves to go for walks and spend outside.",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJdLW9zh43-xxmuVRssDI-6dBCmQoTQrxyvByVSgslaUZ_-zYv",
+  "isReserved": true
+},
+{
+  "_id": {
+    "$oid": "6636dbf384f008e9fcc31828"
+  },
+  "id": "C",
+  "animal": "cat",
+  "name": "Hobbs",
+  "age": "3 years",
+  "description": "Hobbs loves to sit in the sun and take naps all day. The Office is his favorite show.",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKx4KA45Wnw6qfn2xqLXS9FgH4g7SGjkhSo_zWKvikpk6VIOVb",
+  "isReserved": false
+},
+{
+  "_id": {
+    "$oid": "6636dbf384f008e9fcc31829"
+  },
+  "id": "D",
+  "animal": "dog",
+  "name": "Max",
+  "age": "3 years",
+  "description": "Max loves to explore outside. He also loves peanut butter.",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIZHfuU8YhrNIjLlMEkxa9DzG45RFI7zQ99V5rcuEx4C3leI0n",
+  "isReserved": false
+},
+{
+  "_id": {
+    "$oid": "6636dbf384f008e9fcc3182a"
+  },
+  "id": "E",
+  "animal": "cat",
+  "name": "Winston",
+  "age": "1 years",
+  "description": "Winston is super friendly, and loves to play. He gets along super well with other cats.",
+  "image": "https://www.photos-public-domain.com/wp-content/uploads/2012/10/orange-and-white-kitty-face-close-up-600x400.jpg",
+  "isReserved": false
+},
+{
+  "_id": {
+    "$oid": "6636dbf384f008e9fcc3182b"
+  },
+  "id": "F",
+  "animal": "dog",
+  "name": "Bruce",
+  "age": "4 years",
+  "description": "Bruce gets along great with the other dogs. There isn't someone whom he won't befriend.",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ92Oq-Fp6L032FuvU73Ly3S3abVQcr6gblRULC4OuZQ8_e_JGq",
+  "isReserved": false
+},
+{
+  "_id": {
+    "$oid": "6636dbf384f008e9fcc3182c"
+  },
+  "id": "G",
+  "animal": "cat",
+  "name": "Matilda",
+  "age": "6 years",
+  "description": "Maltilda is a bit of a calmer cat, as she is a bit older in age. She still loves cuddles though.",
+  "image": "https://thedailycatsmeow.weebly.com/uploads/4/6/4/3/46434937/146252396.jpg",
+  "isReserved": false
+},
+{
+  "_id": {
+    "$oid": "6636dbf384f008e9fcc3182d"
+  },
+  "id": "H",
+  "animal": "dog",
+  "name": "Spot",
+  "age": "4 years",
+  "description": "Spot is a little shy around new people, but warms up to you very quickly. She loves to watch movies.",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ107nIhAF5bBef-AScQXSSK9oQQGoZlf77AaskRpbXEANEQl5E",
+  "isReserved": false
+}]
